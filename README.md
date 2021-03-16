@@ -1,0 +1,1 @@
+Repository made for the purpose of storing all Test made to get comfortable with Jest
